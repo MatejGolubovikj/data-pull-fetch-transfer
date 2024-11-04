@@ -21,7 +21,7 @@ pd.set_option('mode.chained_assignment', None)
 #Load Ratings with split
 #################################
 
-ratings=pd.read_parquet("Data\Experiment_Data\Ratings_with_Split.parquet")
+ratings=pd.read_parquet("Data/Experiment_Data/Ratings_with_Split.parquet")
 
 #################################
 #Testing storages
